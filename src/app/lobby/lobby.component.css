@@ -1,0 +1,19 @@
+.user-card {
+  max-width: 400px;
+  min-width: 400px;
+  min-height: 240px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
